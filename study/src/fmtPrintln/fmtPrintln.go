@@ -9,7 +9,7 @@ on multiple lines
 
 // main is the primaty function
 func main() {
-	fmt.Println("Simple String") // comment
+	fmt.Println("Simple String") // comment here
 	fmt.Println(`
 This is a multi line
 String, that can also contain "quotes".
